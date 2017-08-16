@@ -7,8 +7,8 @@ using namespace std;
  * following specification.
  * 
  * Parameters:
- * 		bool, Whether the 'A' button is pressed on the controller
- * 		bool, Whether the 'B' button is pressed on the controller
+ * 		bool, Whether the 'A' button is pressed on the XBox controller
+ * 		bool, Whether the 'B' button is pressed on the XBox controller
  *		float, Amount of current being sent to the motor
  * 
  * Return:
